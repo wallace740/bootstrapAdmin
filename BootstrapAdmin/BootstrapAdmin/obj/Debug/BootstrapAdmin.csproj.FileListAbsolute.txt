@@ -1,0 +1,7 @@
+c:\users\wallace\documents\visual studio 2012\Projects\BootstrapAdmin\BootstrapAdmin\bin\BootstrapAdmin.dll
+c:\users\wallace\documents\visual studio 2012\Projects\BootstrapAdmin\BootstrapAdmin\bin\BootstrapAdmin.pdb
+c:\users\wallace\documents\visual studio 2012\Projects\BootstrapAdmin\BootstrapAdmin\obj\Debug\BootstrapAdmin.csprojResolveAssemblyReference.cache
+c:\users\wallace\documents\visual studio 2012\Projects\BootstrapAdmin\BootstrapAdmin\obj\Debug\BootstrapAdmin.dll
+c:\users\wallace\documents\visual studio 2012\Projects\BootstrapAdmin\BootstrapAdmin\obj\Debug\BootstrapAdmin.pdb
+C:\Users\Wallace\Documents\Visual Studio 2012\Projects\BootstrapAdmin\BootstrapAdmin\bin\EntityFramework.dll
+C:\Users\Wallace\Documents\Visual Studio 2012\Projects\BootstrapAdmin\BootstrapAdmin\bin\EntityFramework.xml
